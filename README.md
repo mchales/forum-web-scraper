@@ -1,6 +1,6 @@
 # Breast Cancer Forum Web Scraper
 
-This project uses [Scrapy](https://scrapy.org/) to extract forum posts and responses from [BreastCancer.org's Discussion Forum](https://community.breastcancer.org/en/categories/hormonal-therapy---before-during-and-after).
+This project uses [Scrapy](https://scrapy.org/) to extract forum posts and responses from [BreastCancer.org's Discussion Forum](https://community.breastcancer.org/en/categories/hormonal-therapy---before-during-and-after). The created dataset was used in the paper "Assessing the Performance of Large Language Models in Identifying Hormonal Therapy Medication Consumption from Online Discussions" published in the AMIA 2024 Informatics Summit.
 
 ## Key Figures
 
